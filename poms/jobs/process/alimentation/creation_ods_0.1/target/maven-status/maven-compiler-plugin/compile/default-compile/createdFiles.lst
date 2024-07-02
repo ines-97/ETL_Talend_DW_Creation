@@ -1,0 +1,6 @@
+test_etl\creation_ods_0_1\Creation_ODS.class
+test_etl\creation_ods_0_1\Creation_ODS$ContextProperties.class
+test_etl\creation_ods_0_1\Creation_ODS$TalendException.class
+test_etl\creation_ods_0_1\Creation_ODS$1ContextProcessing.class
+test_etl\creation_ods_0_1\Creation_ODS$PropertiesWithType.class
+test_etl\creation_ods_0_1\Creation_ODS$1.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_GjoCIFDGEe6t9sjy4aP1bA" name="PlayStore" dataPackage="_GjopMFDGEe6t9sjy4aP1bA" Server="Localhost 127.0.0.1" FilePath="N:/Rvisions_2023/SQL_2023/base_de_donnees/googleplaystore_user_reviews.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_GjopMFDGEe6t9sjy4aP1bA" name="default" dataManager="_GjoCIFDGEe6t9sjy4aP1bA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_GjopMVDGEe6t9sjy4aP1bA" id="_qhInwFDFEe6t9sjy4aP1bA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GjopMlDGEe6t9sjy4aP1bA" label="App_Translated_Review_Sentiment_Sentiment_Polarity_Sentiment_Subjectivity" length="209" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GjopM1DGEe6t9sjy4aP1bA" label="Column1" length="112" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GjopNFDGEe6t9sjy4aP1bA" label="Column2" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+test_etl\taggrigaterow_0_1\tAggrigateRow$TalendException.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1Var__tMap_1__Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$row1Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1UtilClass_tAggregateRow_1.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$row2Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$after_tDBInput_1Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$PropertiesWithType.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1ContextProcessing.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$OnRowsEndStructtAggregateRow_1.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$out1Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$row3Struct.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1Util_tLogRow_1.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$1AggOperationStruct_tAggregateRow_1.class
+test_etl\taggrigaterow_0_1\tAggrigateRow$ContextProperties.class

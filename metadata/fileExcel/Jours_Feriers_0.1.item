@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_dPniEFxwEe6kjoc2rlJBmA" name="Jours_Feriers" dataPackage="_dPniEVxwEe6kjoc2rlJBmA" Server="Localhost 127.0.0.1" FilePath="N:/Rvisions_2023/talend/Nouveau dossier/joursFeries.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="joursFeries" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="joursFeries:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_dPniEVxwEe6kjoc2rlJBmA" name="default" dataManager="_dPniEFxwEe6kjoc2rlJBmA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_dPniElxwEe6kjoc2rlJBmA" id="_DOYNwFxwEe6kjoc2rlJBmA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dPniE1xwEe6kjoc2rlJBmA" name="Date" label="Date" length="-1" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dPniFFxwEe6kjoc2rlJBmA" name="JoursF" label="JoursF" talendType="id_String"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

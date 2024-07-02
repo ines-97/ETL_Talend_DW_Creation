@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_ro_IAFDCEe6t9sjy4aP1bA" name="games" dataPackage="_ro_IAVDCEe6t9sjy4aP1bA" Server="Localhost 127.0.0.1" FilePath="N:/Rvisions_2023/SQL_2023/base_de_donnees/android-games.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ro_IAVDCEe6t9sjy4aP1bA" name="default" dataManager="_ro_IAFDCEe6t9sjy4aP1bA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ro_IAlDCEe6t9sjy4aP1bA" id="_ZjleUFDBEe6t9sjy4aP1bA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IA1DCEe6t9sjy4aP1bA" label="rank" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IBFDCEe6t9sjy4aP1bA" label="title" length="51" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IBVDCEe6t9sjy4aP1bA" label="total_ratings" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IBlDCEe6t9sjy4aP1bA" label="installs" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IB1DCEe6t9sjy4aP1bA" label="average_rating" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_ICFDCEe6t9sjy4aP1bA" label="growth__30_days_" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_ICVDCEe6t9sjy4aP1bA" label="growth__60_days_" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IClDCEe6t9sjy4aP1bA" label="price" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IC1DCEe6t9sjy4aP1bA" label="category" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IDFDCEe6t9sjy4aP1bA" label="__star_ratings" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IDVDCEe6t9sjy4aP1bA" label="__star_ratings1" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_IDlDCEe6t9sjy4aP1bA" label="__star_ratings2" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_vEFDCEe6t9sjy4aP1bA" label="__star_ratings3" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_vEVDCEe6t9sjy4aP1bA" label="__star_ratings4" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ro_vElDCEe6t9sjy4aP1bA" label="paid" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

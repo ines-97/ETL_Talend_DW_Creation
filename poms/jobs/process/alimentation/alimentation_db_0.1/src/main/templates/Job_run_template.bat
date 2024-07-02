@@ -1,0 +1,3 @@
+%~d0
+cd %~dp0
+java -Dtalend.component.manager.m2.repository="%cd%/../lib" -Xms256M -Xmx1024M -cp .;../lib/routines.jar;../lib/log4j-slf4j-impl-2.12.1.jar;../lib/log4j-api-2.12.1.jar;../lib/log4j-core-2.12.1.jar;../lib/log4j-1.2-api-2.12.1.jar;../lib/commons-collections-3.2.2.jar;../lib/jboss-serialization.jar;../lib/postgresql-42.2.9.jar;../lib/postgresql-42.2.9.jar;../lib/advancedPersistentLookupLib-1.2.jar;../lib/dom4j-2.1.1.jar;../lib/slf4j-api-1.7.25.jar;../lib/external_sort.jar;../lib/trove.jar;../lib/crypto-utils.jar;alimentation_db_0_1.jar;tjoin_0_1.jar;tsortrow_0_1.jar;tuniqrow_0_1.jar;generer_calendrier2_0_2.jar;creation_ods_0_1.jar;taggrigaterow_0_1.jar;alimenter_dwh_0_1.jar;tfilterrow_0_1.jar; test_etl.alimentation_db_0_1.Alimentation_DB  --context=Default %*
